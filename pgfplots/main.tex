@@ -1,0 +1,34 @@
+\documentclass{article}
+
+\usepackage{cmap}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.13}
+
+
+\title{Pgfplots}
+\author{Ivan Edigaryev}
+\date{April 2016}
+
+
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[
+	title = Exponenta,
+	xlabel = {$x$},
+	ylabel = {$y$},
+	minor tick num = 2
+]
+\addplot[blue] {e^x};
+\end{axis}
+\end{tikzpicture}
+    
+    
+\maketitle
+
+\section{Introduction}
+\section{Введение}
+
+\end{document}
