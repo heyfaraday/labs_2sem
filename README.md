@@ -1,2 +1,5 @@
-# latex-repository
-It's repository for work with latex on sharelatex.com
+# 😮 General Physics: laboratory practice
+
+This laboratory works I have made in the second term at MIPT for General Physics: Thermodynamics course.
+
+The repository contains three projects, additional jupyter notebooks, and some data.
